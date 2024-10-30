@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.pinimg.com/564x/f9/ab/81/f9ab8164778001ebd38092bc733ad8d2.jpg",
+      "titre": "Montre moderne",
+      "prix": "45.00"
+    },
+    {
+      "id": 2,
+      "image": "https://i.pinimg.com/564x/38/2e/14/382e14fb5a8973f6c57136fbd609fe27.jpg",
+      "titre": "Bracelet en cuir",
+      "prix": "25.00"
+    },
+    {
+      "id": 3,
+      "image": "https://i.pinimg.com/564x/e9/d3/09/e9d309c2a9f61893f11a897c34ddf040.jpg",
+      "titre": "Lunettes de soleil",
+      "prix": "60.00"
+    },
+    {
+      "id": 4,
+      "image": "https://i.pinimg.com/564x/23/74/b8/2374b8bdc39aa9b25cee4924311b8ed0.jpg",
+      "titre": "Sac à main élégant",
+      "prix": "80.00"
+    },
+    {
+      "id": 5,
+      "image": "https://i.pinimg.com/564x/20/c3/b1/20c3b11cc696928982961a88acf60660.jpg",
+      "titre": "Écouteurs sans fil",
+      "prix": "50.00"
+    }
+]
+  
